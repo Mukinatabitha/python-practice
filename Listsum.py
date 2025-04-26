@@ -3,6 +3,5 @@ def Listsum(numbers):
     for num in numbers:  # Go through each number in the list
         total = total + num  # Add the number to total
     return total  # Give back the final total
-
-# Try it out
+#trial
 print(Listsum([1, 2, 3, 4]))  # Should print 10
