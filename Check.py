@@ -3,7 +3,6 @@ def Check(number):
         return "Even"
     else:  # Otherwise, it's odd
         return "Odd"
-
-# Try it out
+#trial
 print(Check(5))  # Should print "Odd"
 
